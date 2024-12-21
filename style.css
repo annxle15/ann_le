@@ -378,8 +378,8 @@ article .icon {
 }
 
 .color-container {
-  border-color: #8DADCD;
-  background: #8DADCD;
+  border-color: #fdfdff;
+  background: #fdfdff;
 }
 
 .article-container {
@@ -411,8 +411,6 @@ article .icon {
   padding: 1rem;
 
 }
-
-
 
 .contact-icon {
   cursor: default;
